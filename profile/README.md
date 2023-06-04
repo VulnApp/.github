@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to VulnApp, a GitHub organization dedicated to providing a collection of Vulnerable Web Applications specifically designed for beginners to learn and practice web application security. Our mission is to create a safe and educational environment where aspiring security enthusiasts can gain hands-on experience in identifying and exploiting common security vulnerabilities found in web applications.
+Welcome to VulnLabs, a GitHub organization dedicated to providing a collection of Vulnerable Web Applications specifically designed for beginners to learn and practice web application security. Our mission is to create a safe and educational environment where aspiring security enthusiasts can gain hands-on experience in identifying and exploiting common security vulnerabilities found in web applications.
 
 In this organization, you'll find a curated selection of intentionally vulnerable web applications that simulate real-world scenarios, covering a range of security flaws such as SQL injection, cross-site scripting (XSS), insecure direct object references, insecure deserialization, and more. Each application comes with comprehensive documentation and step-by-step tutorials to help you understand the vulnerabilities and learn effective mitigation techniques.
 
@@ -10,4 +10,4 @@ Join us on this exciting journey of learning and exploration! Let's work togethe
 
 Happy hacking and learning!
 
-The VulnApp Team
+The VulnLabs Team
